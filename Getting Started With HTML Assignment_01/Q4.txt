@@ -1,0 +1,21 @@
+HTML Tags:
+
+ HTML tags are the keywords that are used to produce web pages in various formats. Opening tags and closing tags are found in the majority of tags. The concluding tags 
+contain a forward slash (/), while the language of the beginning tags is the same. Certain tags don’t need to be closed.
+
+HTML Elements :-
+
+An HTML element is a collection of start and end tags with the content inserted in between them.
+
+Syntax:- 
+
+<tagname > Contents </tagname>
+
+HTML Elements supports almost all HTML Tags.
+
+HTML Element: The HTML element consists of 3 parts.
+
+Opening tag: It is used to tell the browser where the content material starts.
+Closing tag: It is used to tell the browser where the content material ends.
+Content: It is the actual content material inside the opening and closing tags.
+Combining all these 3 parts results in an overall HTML Element.

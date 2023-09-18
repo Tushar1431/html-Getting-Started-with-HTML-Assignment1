@@ -1,0 +1,18 @@
+
+COMMENTS:-
+
+Comments are the part of code that should not be parsed.Comments are essential to understand complex code.
+Comments provide information , why these set of instructions are written over here. There are three ways 
+to write comment in HTML or there are three types of Comments in HTML.
+
+Single Line Comment :- 
+                       Single line comment given inside < !- - comments Here - - > tag.
+Multiple line Comment : -
+                      Multiple lines can be given by the syntax ( <!-- – > ), Basically it is the same as 
+                      we used in single line comment , difference is half part of the comment (“-->”) , is 
+                      appended where the intended comment line ends . 
+Using <Comment> tag :-
+                           There Used to be an HTML <comment> tag  but currently it is not supported by any 
+                           Modern Browser. 
+  Syntax:- < ! - - comments Here - - >
+  
